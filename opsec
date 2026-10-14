@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Usage: opsec [OPTIONS...]"
+echo ""
+echo "Available options:"
+echo "	--help: Shows help"
+echo ""
